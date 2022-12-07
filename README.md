@@ -1,6 +1,11 @@
-# bioinformatics guide
+# Bioinformatics guide
 
-A short description of the project.
+This repository has a basic complete guide for bioinformaticians. To make some actions for instance,
+understading how to manage biological data, the type of data that is handle and how to read it in python,
+further, how to access novel databases and get data for more analysis such as BLAST and sequence aligment.
+This project shows python libraries to create a professional environment for doing bioinformatics. Moreover, 
+an interesting example with COVID-19 genome analysis. In order to run this project please follow the instructions
+below.
   
 ## Installation guide
 
